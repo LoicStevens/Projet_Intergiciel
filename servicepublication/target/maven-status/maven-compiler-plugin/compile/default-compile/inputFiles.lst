@@ -1,0 +1,15 @@
+C:\Users\LOIC\Desktop\servicepublication\src\main\java\com\JobOs\servicepublication\AnnouncementMapper\AnnouncementMapper.java
+C:\Users\LOIC\Desktop\servicepublication\src\main\java\com\JobOs\servicepublication\AuthServiceClient.java
+C:\Users\LOIC\Desktop\servicepublication\src\main\java\com\JobOs\servicepublication\config\CorsConfig.java
+C:\Users\LOIC\Desktop\servicepublication\src\main\java\com\JobOs\servicepublication\controller\AnnouncementController.java
+C:\Users\LOIC\Desktop\servicepublication\src\main\java\com\JobOs\servicepublication\controller\TestController.java
+C:\Users\LOIC\Desktop\servicepublication\src\main\java\com\JobOs\servicepublication\dto\AnnouncementRequest.java
+C:\Users\LOIC\Desktop\servicepublication\src\main\java\com\JobOs\servicepublication\dto\AnnouncementResponse.java
+C:\Users\LOIC\Desktop\servicepublication\src\main\java\com\JobOs\servicepublication\dto\UserDto.java
+C:\Users\LOIC\Desktop\servicepublication\src\main\java\com\JobOs\servicepublication\exception\AnnouncementNotFoundException.java
+C:\Users\LOIC\Desktop\servicepublication\src\main\java\com\JobOs\servicepublication\model\Announcement.java
+C:\Users\LOIC\Desktop\servicepublication\src\main\java\com\JobOs\servicepublication\model\ProjectType.java
+C:\Users\LOIC\Desktop\servicepublication\src\main\java\com\JobOs\servicepublication\repository\AnnouncementRepository.java
+C:\Users\LOIC\Desktop\servicepublication\src\main\java\com\JobOs\servicepublication\service\AnnouncementService.java
+C:\Users\LOIC\Desktop\servicepublication\src\main\java\com\JobOs\servicepublication\ServicePublicationApplication.java
+C:\Users\LOIC\Desktop\servicepublication\src\main\java\com\JobOs\servicepublication\spec\AnnouncementSpecification.java

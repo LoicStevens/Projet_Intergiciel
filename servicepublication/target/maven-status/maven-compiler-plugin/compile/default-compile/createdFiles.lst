@@ -1,0 +1,13 @@
+com\JobOs\servicepublication\dto\UserDto.class
+com\JobOs\servicepublication\model\ProjectType.class
+com\JobOs\servicepublication\dto\AnnouncementRequest.class
+com\JobOs\servicepublication\AuthServiceClient.class
+com\JobOs\servicepublication\ServicePublicationApplication.class
+com\JobOs\servicepublication\repository\AnnouncementRepository.class
+com\JobOs\servicepublication\service\AnnouncementService.class
+com\JobOs\servicepublication\dto\AnnouncementResponse.class
+com\JobOs\servicepublication\model\Announcement$AnnouncementBuilder.class
+com\JobOs\servicepublication\controller\TestController.class
+com\JobOs\servicepublication\controller\AnnouncementController.class
+com\JobOs\servicepublication\model\Announcement.class
+com\JobOs\servicepublication\dto\AnnouncementResponse$AnnouncementResponseBuilder.class
